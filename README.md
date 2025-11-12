@@ -401,7 +401,7 @@
     <!-- Hero Section -->
     <section class="hero" id="home">
         <div class="hero-content">
-            <h1>Hi, I'm Your Name</h1>
+            <h1>Hi, I'm Your Deepthi</h1>
             <p>Web Developer & Designer</p>
             <a href="#contact" class="cta-button">Get In Touch</a>
         </div>
