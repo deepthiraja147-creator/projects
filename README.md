@@ -426,7 +426,7 @@
         <div class="skills-grid">
             <div class="skill-card">
                 <h3>HTML & CSS</h3>
-                <p>Expert in semantic HTML5 and modern CSS3 including Flexbox and Grid</p>
+                <p>Expert in semantic HTML5 and CSS including Flexbox and Grid</p>
                 <div class="skill-bar">
                     <div class="skill-progress" style="width: 90%"></div>
                 </div>
